@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DomiContact Ver. 3.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_add_record">Add 4 Record!</string>
+    <string name="button_new_record">Add New Record!</string>
+    <string name="button_read_record">Read Record!</string>
+    <string name="button_clear_all_record">Clear All Record!</string>
+    <string name="text_Action">Action</string>
+    <string name="text_MaxRec">MaxRec</string>
+    <string name="text_Phone">Phone</string>
+    <string name="text_Name">Name</string>
+    <string name="text_Records">Records: </string>
+    <string name="text_hint_Contact_list">Contact list</string>
+
+</resources>
